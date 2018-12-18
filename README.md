@@ -3,7 +3,15 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 
 - Course: Introduction to Virtual Reality
 - Project: Udacity Carnival
+- student: Hyun Ji Lee
 
+### Tasks
+- Fix Coin Toss Bug by Changing Mix and Max Toss Power
+- Set different values for each slice on Wheel of Fortune
+- Set Oscillation distance and speed for Plinko
+- Customize Scoreboard with my name
+- move teddy bear away from player
+- screenshot gameplay
 
 ### Versions Used
 - [Unity LTS Release 2017.4.15](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
